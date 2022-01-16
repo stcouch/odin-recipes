@@ -1,0 +1,33 @@
+body{
+  background-color: gray;
+  text-align: center;
+}
+h1{ 
+  text-align: center;
+}
+h1:hover{
+  color: darkred;
+}
+img{
+  height: 25%;
+  width: 25%;
+}
+.hide{
+  display: none;
+}
+.imgDiv:hover + .hide{
+  display: block;
+  color:  darkred;
+}
+ul{
+  text-align: left;
+}
+.warstyle{
+  text-align: left;
+}
+.recipes{
+  text-align: left;
+}
+#imgDesc{
+  text-align: center;
+}
