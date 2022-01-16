@@ -19,12 +19,8 @@ img{
   display: block;
   color:  darkred;
 }
-ul{
-  text-align: left;
-}
-.warstyle{
-  text-align: left;
-}
+ul,
+.warstyle,
 .recipes{
   text-align: left;
 }
